@@ -6,23 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		yTza3WFGLXyNUVQc2VFT8bGlbV4=
-		</data>
-		<key>Frameworks/HaishinKit.framework/HaishinKit</key>
-		<data>
-		iHXADMpQvPUmCPv4MRTmZEzn+Dw=
-		</data>
-		<key>Frameworks/HaishinKit.framework/Info.plist</key>
-		<data>
-		tmbIMtsj/uvTkJ5AMSdw3EfWVrk=
-		</data>
-		<key>Frameworks/HaishinKit.framework/_CodeSignature/CodeResources</key>
-		<data>
-		kYxZvVCvukQzQTojEHaERwlkv4s=
+		LAr9vTJn9r43Kc8VxxOCgXzoQHY=
 		</data>
 		<key>Headers/SwsStreamKit-Swift.h</key>
 		<data>
-		Nn0OTi7EyMHu3mkuwlAS9rrDLwY=
+		AZpEAjP2NUABtvgXZVT5R4k+Wls=
 		</data>
 		<key>Headers/SwsStreamKit.h</key>
 		<data>
@@ -30,31 +18,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		zLAJwO2FlIjzQsVIEfiMrvZQheQ=
+		x5f/3ovFoBLJ2BnWYe4ukCXF/Ug=
 		</data>
 		<key>Modules/SwsStreamKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		760NnOVslF32wo95Il4jdw2iM9U=
+		yFoet7MgifDwFNOFe2C1CsrgcDA=
 		</data>
 		<key>Modules/SwsStreamKit.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		8DaqZ+ZCFbW88V27tLqCiNNZD10=
+		fjeqP00V2VsifALL5pztRQCTZ9o=
 		</data>
 		<key>Modules/SwsStreamKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		zxLivHh/4yQWC/Jin4anfmclcTc=
+		2pv02pDFznJ9K31/UidaGbV1hU8=
 		</data>
 		<key>Modules/SwsStreamKit.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		760NnOVslF32wo95Il4jdw2iM9U=
+		yFoet7MgifDwFNOFe2C1CsrgcDA=
 		</data>
 		<key>Modules/SwsStreamKit.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		8DaqZ+ZCFbW88V27tLqCiNNZD10=
+		fjeqP00V2VsifALL5pztRQCTZ9o=
 		</data>
 		<key>Modules/SwsStreamKit.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		zxLivHh/4yQWC/Jin4anfmclcTc=
+		2pv02pDFznJ9K31/UidaGbV1hU8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -62,7 +50,7 @@
 		</data>
 		<key>SwsStreamKit.storyboardc/4As-vc-8X2-view-UYk-to-8WA.nib</key>
 		<data>
-		ZAF1il7gGrrFIBgL4ar4ol1qVDE=
+		NmOFlcZcWa0tBaGKxMYMYs/3yQk=
 		</data>
 		<key>SwsStreamKit.storyboardc/Info.plist</key>
 		<data>
@@ -70,48 +58,39 @@
 		</data>
 		<key>SwsStreamKit.storyboardc/LiveViewController.nib</key>
 		<data>
-		ge4X02bcf/sgTBhI9ooA1VbRzBQ=
+		1LgHndxjHbiXqtw7SVls+duVSXI=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
 		<key>Assets.car</key>
 		<dict>
-			<key>hash2</key>
+			<key>hash</key>
 			<data>
-			dc7sg0NNr7RBPdcHsKoFMueo+6b3sWIJUtGTAod5xX8=
+			LAr9vTJn9r43Kc8VxxOCgXzoQHY=
 			</data>
-		</dict>
-		<key>Frameworks/HaishinKit.framework/HaishinKit</key>
-		<dict>
 			<key>hash2</key>
 			<data>
-			MQuLC1XWrUVNQF3WIMTBwsj4ocUJbh2qEZj6XmHeQEc=
-			</data>
-		</dict>
-		<key>Frameworks/HaishinKit.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8xlxPhdl9BcJ+QRRu5lCPTd3QwpIfzCNJwdGcYmnywQ=
-			</data>
-		</dict>
-		<key>Frameworks/HaishinKit.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			kNUnEqsddQhVOw7doeQF+SZs2yo4j6KbYSjn+UdNsKU=
+			2ilObEh57OsmwhoMPdJeIt9653i8VdkJdGV7Dr3+GXc=
 			</data>
 		</dict>
 		<key>Headers/SwsStreamKit-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			AZpEAjP2NUABtvgXZVT5R4k+Wls=
+			</data>
 			<key>hash2</key>
 			<data>
-			aPtL8QVnGCy0FgT4oEVNp8wSmWFIP7EGfF3+sTolI38=
+			qZV28Wddeyjki+trYG5EYEgHjqch9hzCE8NKKKg7rlA=
 			</data>
 		</dict>
 		<key>Headers/SwsStreamKit.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			VWVHi5w0qDG+xAqIjjD+jwjC5Rs=
+			</data>
 			<key>hash2</key>
 			<data>
 			1QBA8GdiTWT/2wyD9pz5gRFLw4Yhe9V3HUEY3RXkNYU=
@@ -119,48 +98,76 @@
 		</dict>
 		<key>Modules/SwsStreamKit.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			yFoet7MgifDwFNOFe2C1CsrgcDA=
+			</data>
 			<key>hash2</key>
 			<data>
-			/a9MUkokY5P498VyVMNngOmA95KJYk2l1x1TrbrEl0g=
+			nvx+0hb5LOujfO+MoRdrOf3HGDAyFr14LEe2R7j1O0U=
 			</data>
 		</dict>
 		<key>Modules/SwsStreamKit.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			fjeqP00V2VsifALL5pztRQCTZ9o=
+			</data>
 			<key>hash2</key>
 			<data>
-			NNvcOeo1wejOTUtKuAm8+EYeuGRIKG61f3Q3bygigt4=
+			1VySe0yfrxVVQD2Ig1tS6WEnPsKJF54Yq0KsZhjCXsE=
 			</data>
 		</dict>
 		<key>Modules/SwsStreamKit.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			2pv02pDFznJ9K31/UidaGbV1hU8=
+			</data>
 			<key>hash2</key>
 			<data>
-			dpDtDSg/IVFT0cMmARY+Mz+fboPuDYQ3uJuREt4h/Lk=
+			8o0M7YvZG9kgrqiLKLZyT5VCYCGVrAfTqZy6A8uFrNQ=
 			</data>
 		</dict>
 		<key>Modules/SwsStreamKit.swiftmodule/arm64.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			yFoet7MgifDwFNOFe2C1CsrgcDA=
+			</data>
 			<key>hash2</key>
 			<data>
-			/a9MUkokY5P498VyVMNngOmA95KJYk2l1x1TrbrEl0g=
+			nvx+0hb5LOujfO+MoRdrOf3HGDAyFr14LEe2R7j1O0U=
 			</data>
 		</dict>
 		<key>Modules/SwsStreamKit.swiftmodule/arm64.swiftinterface</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			fjeqP00V2VsifALL5pztRQCTZ9o=
+			</data>
 			<key>hash2</key>
 			<data>
-			NNvcOeo1wejOTUtKuAm8+EYeuGRIKG61f3Q3bygigt4=
+			1VySe0yfrxVVQD2Ig1tS6WEnPsKJF54Yq0KsZhjCXsE=
 			</data>
 		</dict>
 		<key>Modules/SwsStreamKit.swiftmodule/arm64.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			2pv02pDFznJ9K31/UidaGbV1hU8=
+			</data>
 			<key>hash2</key>
 			<data>
-			dpDtDSg/IVFT0cMmARY+Mz+fboPuDYQ3uJuREt4h/Lk=
+			8o0M7YvZG9kgrqiLKLZyT5VCYCGVrAfTqZy6A8uFrNQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			lU7bpUTxc0Y8L158+vT1FWlJvbM=
+			</data>
 			<key>hash2</key>
 			<data>
 			hkIrnxt8GX4ZDvxHWAoLdxX7P/m+YWziw0H3COD1UYg=
@@ -168,13 +175,21 @@
 		</dict>
 		<key>SwsStreamKit.storyboardc/4As-vc-8X2-view-UYk-to-8WA.nib</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			NmOFlcZcWa0tBaGKxMYMYs/3yQk=
+			</data>
 			<key>hash2</key>
 			<data>
-			hXoxEwjY62qwOdc44SsSg/s1ZBsePuhOtLV9dcd2fW0=
+			rocj3Wt9gtyysy8bWrlHGQNwxb8eE1T6F1kUuhvhB1I=
 			</data>
 		</dict>
 		<key>SwsStreamKit.storyboardc/Info.plist</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Adzf2X/HO0sl3fG1GGVk3VPV7Ws=
+			</data>
 			<key>hash2</key>
 			<data>
 			8DfxX80f+62WPao2c19Awty0a0PuoPxZhPFuKWbNttQ=
@@ -182,9 +197,13 @@
 		</dict>
 		<key>SwsStreamKit.storyboardc/LiveViewController.nib</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			1LgHndxjHbiXqtw7SVls+duVSXI=
+			</data>
 			<key>hash2</key>
 			<data>
-			yl/po3x0MSo+XQCqMbZKqX8UBsqN9EYs5rPaCGnra0k=
+			We3Li0q9P+mHPEujhS7W45r1Ze5wx7CyvXuAcawAjH4=
 			</data>
 		</dict>
 	</dict>

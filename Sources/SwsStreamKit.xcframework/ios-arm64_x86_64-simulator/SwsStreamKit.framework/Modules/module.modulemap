@@ -1,0 +1,11 @@
+framework module SwsStreamKit {
+  umbrella header "SwsStreamKit.h"
+
+  export *
+  module * { export * }
+}
+
+module SwsStreamKit.Swift {
+    header "SwsStreamKit-Swift.h"
+    requires objc
+}
