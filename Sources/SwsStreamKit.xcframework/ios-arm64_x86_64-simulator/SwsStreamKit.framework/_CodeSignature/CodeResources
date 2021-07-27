@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/SwsStreamKit-Swift.h</key>
 		<data>
-		vesc8Uyo0gySXSIJE5Cv6stuCaQ=
+		LOW7k8ZImnal9CS21t3OqLtLRPo=
 		</data>
 		<key>Headers/SwsStreamKit.h</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/SwsStreamKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		cMeRO2kX3iYTmiKpnaIOtBbt7Z8=
+		KYAyxe6p1gTmvc8uukyFZEJEjZU=
 		</data>
 		<key>Modules/SwsStreamKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		iO4b/CNO4N1AZ2aGWstl4vH+SN8=
+		5JdjU+JZQgW4c8ee/CNDtV9dD6E=
 		</data>
 		<key>Modules/SwsStreamKit.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/SwsStreamKit.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		cMeRO2kX3iYTmiKpnaIOtBbt7Z8=
+		KYAyxe6p1gTmvc8uukyFZEJEjZU=
 		</data>
 		<key>Modules/SwsStreamKit.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		iO4b/CNO4N1AZ2aGWstl4vH+SN8=
+		5JdjU+JZQgW4c8ee/CNDtV9dD6E=
 		</data>
 		<key>Modules/SwsStreamKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/SwsStreamKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		oNLk3ukmqVihGQ6hgs0Rnd2Ssu4=
+		vIv3EUgWTCFYP4OBxKSgBUD6/PY=
 		</data>
 		<key>Modules/SwsStreamKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		OidBPCXud3qjSY4+CEyg5Hgnqg0=
+		EWteks20sYq6MN9JNvhzudIA2HY=
 		</data>
 		<key>Modules/SwsStreamKit.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>Modules/SwsStreamKit.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		oNLk3ukmqVihGQ6hgs0Rnd2Ssu4=
+		vIv3EUgWTCFYP4OBxKSgBUD6/PY=
 		</data>
 		<key>Modules/SwsStreamKit.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		OidBPCXud3qjSY4+CEyg5Hgnqg0=
+		EWteks20sYq6MN9JNvhzudIA2HY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>SwsStreamKit.storyboardc/4As-vc-8X2-view-UYk-to-8WA.nib</key>
 		<data>
-		r5IgDnheEN/hywAAbSL38n3LPHE=
+		20NN8jbFNE2odeeCmDvbkdcWH5I=
 		</data>
 		<key>SwsStreamKit.storyboardc/Info.plist</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>SwsStreamKit.storyboardc/LiveViewController.nib</key>
 		<data>
-		7hczLnbyBTuFyI2Wu+WlTVjYD1o=
+		92wEGHE6HCiWI7yyamtFiBRgKrA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -102,11 +102,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vesc8Uyo0gySXSIJE5Cv6stuCaQ=
+			LOW7k8ZImnal9CS21t3OqLtLRPo=
 			</data>
 			<key>hash2</key>
 			<data>
-			fMccw6S8AO1x8lg+j9rY0P8c5oeCAwmh8022D7MEuOE=
+			vi7vjl15kzR8ClL0oXs/q8HOZkKurBHyDqGAZZCW63E=
 			</data>
 		</dict>
 		<key>Headers/SwsStreamKit.h</key>
@@ -135,22 +135,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cMeRO2kX3iYTmiKpnaIOtBbt7Z8=
+			KYAyxe6p1gTmvc8uukyFZEJEjZU=
 			</data>
 			<key>hash2</key>
 			<data>
-			wW8ko72U6vKCO7+a6xbbOoBagBxxrzbnhwEMnSrMv54=
+			DTc5fiKMR2LLmn/S1cbSm6weOvxsblhyrs5iL2gPbzM=
 			</data>
 		</dict>
 		<key>Modules/SwsStreamKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iO4b/CNO4N1AZ2aGWstl4vH+SN8=
+			5JdjU+JZQgW4c8ee/CNDtV9dD6E=
 			</data>
 			<key>hash2</key>
 			<data>
-			r42FaDPSClOCghHxshsIXTzqv6nB0sbdPI0d0ohRRGk=
+			SOu1teL22llEKEW+A8JJ4/iNNNOcoJ25Myt239IAPbA=
 			</data>
 		</dict>
 		<key>Modules/SwsStreamKit.swiftmodule/arm64.swiftdoc</key>
@@ -168,22 +168,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cMeRO2kX3iYTmiKpnaIOtBbt7Z8=
+			KYAyxe6p1gTmvc8uukyFZEJEjZU=
 			</data>
 			<key>hash2</key>
 			<data>
-			wW8ko72U6vKCO7+a6xbbOoBagBxxrzbnhwEMnSrMv54=
+			DTc5fiKMR2LLmn/S1cbSm6weOvxsblhyrs5iL2gPbzM=
 			</data>
 		</dict>
 		<key>Modules/SwsStreamKit.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iO4b/CNO4N1AZ2aGWstl4vH+SN8=
+			5JdjU+JZQgW4c8ee/CNDtV9dD6E=
 			</data>
 			<key>hash2</key>
 			<data>
-			r42FaDPSClOCghHxshsIXTzqv6nB0sbdPI0d0ohRRGk=
+			SOu1teL22llEKEW+A8JJ4/iNNNOcoJ25Myt239IAPbA=
 			</data>
 		</dict>
 		<key>Modules/SwsStreamKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -201,22 +201,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oNLk3ukmqVihGQ6hgs0Rnd2Ssu4=
+			vIv3EUgWTCFYP4OBxKSgBUD6/PY=
 			</data>
 			<key>hash2</key>
 			<data>
-			vt/PGYZY1CmZx3cUPoad1BcU1WKvYJQT4bCbXI6pNCQ=
+			fpcXiwUXidmWjig+8Huq8OiXl6YZmO8SKRsP53xziRY=
 			</data>
 		</dict>
 		<key>Modules/SwsStreamKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OidBPCXud3qjSY4+CEyg5Hgnqg0=
+			EWteks20sYq6MN9JNvhzudIA2HY=
 			</data>
 			<key>hash2</key>
 			<data>
-			M/77/jquq1Wptz9t4oXoGM55qrbomMCFk5UgCmQbyPI=
+			wcY/tt+5BQtxLdBMS3EFadRK1smHgIUYrvXNz5MfUxk=
 			</data>
 		</dict>
 		<key>Modules/SwsStreamKit.swiftmodule/x86_64.swiftdoc</key>
@@ -234,22 +234,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oNLk3ukmqVihGQ6hgs0Rnd2Ssu4=
+			vIv3EUgWTCFYP4OBxKSgBUD6/PY=
 			</data>
 			<key>hash2</key>
 			<data>
-			vt/PGYZY1CmZx3cUPoad1BcU1WKvYJQT4bCbXI6pNCQ=
+			fpcXiwUXidmWjig+8Huq8OiXl6YZmO8SKRsP53xziRY=
 			</data>
 		</dict>
 		<key>Modules/SwsStreamKit.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OidBPCXud3qjSY4+CEyg5Hgnqg0=
+			EWteks20sYq6MN9JNvhzudIA2HY=
 			</data>
 			<key>hash2</key>
 			<data>
-			M/77/jquq1Wptz9t4oXoGM55qrbomMCFk5UgCmQbyPI=
+			wcY/tt+5BQtxLdBMS3EFadRK1smHgIUYrvXNz5MfUxk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -267,11 +267,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			r5IgDnheEN/hywAAbSL38n3LPHE=
+			20NN8jbFNE2odeeCmDvbkdcWH5I=
 			</data>
 			<key>hash2</key>
 			<data>
-			kFP/8Jub/+Sr8jJIR2c5owweR79Squ3L4JiJ3dH6H/I=
+			CYV3LWkbNcvPt35xHWLKKOJOn4if8i0nnTTISfwdoMo=
 			</data>
 		</dict>
 		<key>SwsStreamKit.storyboardc/Info.plist</key>
@@ -289,11 +289,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7hczLnbyBTuFyI2Wu+WlTVjYD1o=
+			92wEGHE6HCiWI7yyamtFiBRgKrA=
 			</data>
 			<key>hash2</key>
 			<data>
-			yhImlE2P5gvISrVMS/+vLwSC59L2urYl6Gx1bCj42/M=
+			p3BJOYs9G01pM92TGOKxZFzmmTiEF/r0K1X4g5N5VN8=
 			</data>
 		</dict>
 	</dict>

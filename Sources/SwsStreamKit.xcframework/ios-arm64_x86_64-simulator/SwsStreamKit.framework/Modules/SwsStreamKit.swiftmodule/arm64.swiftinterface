@@ -16,7 +16,6 @@ import VideoToolbox
 @objc @_inheritsConvenienceInitializers final public class ExampleRecorderDelegate : HaishinKit.DefaultAVRecorderDelegate {
   @objc override final public func didFinishWriting(_ recorder: HaishinKit.AVRecorder)
   override public init(fileType: HaishinKit.DefaultAVRecorderDelegate.FileType = super)
-  @objc override dynamic public init()
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers final public class LiveViewController : UIKit.UIViewController {

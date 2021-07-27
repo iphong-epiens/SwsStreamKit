@@ -215,7 +215,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 SWIFT_RESILIENT_CLASS("_TtC12SwsStreamKit23ExampleRecorderDelegate")
 @interface ExampleRecorderDelegate : DefaultAVRecorderDelegate
 - (void)didFinishWriting:(AVRecorder * _Nonnull)recorder;
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
 @class NSNumber;
@@ -455,7 +454,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 SWIFT_RESILIENT_CLASS("_TtC12SwsStreamKit23ExampleRecorderDelegate")
 @interface ExampleRecorderDelegate : DefaultAVRecorderDelegate
 - (void)didFinishWriting:(AVRecorder * _Nonnull)recorder;
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
 @class NSNumber;
