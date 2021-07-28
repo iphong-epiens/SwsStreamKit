@@ -189,7 +189,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
 @import Foundation;
-@import HaishinKit;
 @import UIKit;
 #endif
 
@@ -207,13 +206,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 # pragma clang attribute push(__attribute__((external_source_symbol(language="Swift", defined_in="SwsStreamKit",generated_declaration))), apply_to=any(function,enum,objc_interface,objc_category,objc_protocol))
 # pragma pop_macro("any")
 #endif
-
-@class AVRecorder;
-
-SWIFT_RESILIENT_CLASS("_TtC12SwsStreamKit23ExampleRecorderDelegate")
-@interface ExampleRecorderDelegate : DefaultAVRecorderDelegate
-- (void)didFinishWriting:(AVRecorder * _Nonnull)recorder;
-@end
 
 @class NSNumber;
 @class NSString;
