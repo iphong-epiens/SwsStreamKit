@@ -5,6 +5,8 @@ import AVFoundation
 import HaishinKit
 import Logboard
 import Photos
+import RxCocoa
+import RxSwift
 import Swift
 @_exported import SwsStreamKit
 import UIKit
